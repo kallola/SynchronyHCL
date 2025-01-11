@@ -7,3 +7,5 @@ conflict resolve to learn
 
 remote conflict to resolve.......mypapa
 
+git stash remote to learn.........
+
