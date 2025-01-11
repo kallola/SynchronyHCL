@@ -1,1 +1,2 @@
 Hello kallola i love you.!!!
+commit without staging area!!!
